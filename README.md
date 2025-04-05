@@ -14,6 +14,9 @@ https://colab.research.google.com/drive/1GydmylrulXDlsy9dCOL55HqkUGZGmjlh?usp=sh
 
 COMMUNITY DETECTION USING GIRVAN NEWMAN AND LOUVAIN:
 https://colab.research.google.com/drive/15s-S09KQXE_lQzZp_QmhlFNSMPA3RErR?usp=sharing
+![image](https://github.com/user-attachments/assets/c31f49be-168e-4f8b-bef6-b324acda5579)
+![Screenshot 2025-04-05 113525](https://github.com/user-attachments/assets/af352216-1db8-4a35-9767-ece899092b79)
+
 
 ABSTRACT:
 =
