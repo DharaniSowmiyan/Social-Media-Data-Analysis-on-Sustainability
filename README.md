@@ -1,6 +1,20 @@
 SOCIAL MEDIA DATA ANALYSIS ON ENVIRONMENTAL SUSTAINABILITY 
 =
 
+ATTATCHMENTS:
+=
+SENTIMENTAL ANALYSIS :
+https://colab.research.google.com/drive/1bTFq707hcG-GzKUO9XzS__EaSa9ZGezG?usp=sharing
+
+DATA FORMATTING:
+https://colab.research.google.com/drive/1GgkSqeApzvQv1FVPSDjIA1rVYItyF0ru?usp=sharing
+
+VISUALIZATIONS AND INFERENCE:
+https://colab.research.google.com/drive/1GydmylrulXDlsy9dCOL55HqkUGZGmjlh?usp=sharing
+
+COMMUNITY DETECTION USING GIRVAN NEWMAN AND LOUVAIN:
+https://colab.research.google.com/drive/15s-S09KQXE_lQzZp_QmhlFNSMPA3RErR?usp=sharing
+
 ABSTRACT:
 =
 Social media data plays a significant role in understanding the society’s perspective of a particular situation. Social media platforms such as twitter enables users to post their unfiltered opinions in the form of tweets. These tweets can be used as a powerful tool to understand people’s point of view in the domain of our interests such as environmental sustainability. Our project focuses on analysing twitter users tweets based on topics related to environmental sustainability and analyse the public sentiments. In this we’ve performed sentimental analysis on the tweets using BERT model and based on those sentiment labels we have performed various analysis measures to uncover new levels of detail about human-environment interactions. This report focuses on the opportunities , threats and challenges associated with the use of social media data in sustainability.
@@ -251,19 +265,6 @@ CONCLUSION:
 =
 Social media data hold significant promise for enhancing environmental sustainability research by providing real-time insights and broadening public engagement. However, realizing this potential requires careful consideration of ethical standards, data privacy, and accessibility issues. By addressing these challenges, researchers can ensure that social media data contribute positively to the global sustainability agenda, supporting efforts to achieve the United Nations Sustainable Development Goals (SDGs) and promoting a more sustainable future.
 
-ATTATCHMENTS:
-=
-SENTIMENTAL ANALYSIS :
-https://colab.research.google.com/drive/1bTFq707hcG-GzKUO9XzS__EaSa9ZGezG?usp=sharing
-
-DATA FORMATTING:
-https://colab.research.google.com/drive/1GgkSqeApzvQv1FVPSDjIA1rVYItyF0ru?usp=sharing
-
-VISUALIZATIONS AND INFERENCE:
-https://colab.research.google.com/drive/1GydmylrulXDlsy9dCOL55HqkUGZGmjlh?usp=sharing
-
-COMMUNITY DETECTION USING GIRVAN NEWMAN AND LOUVAIN:
-https://colab.research.google.com/drive/15s-S09KQXE_lQzZp_QmhlFNSMPA3RErR?usp=sharing
 
 
 
